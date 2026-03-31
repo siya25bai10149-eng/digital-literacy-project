@@ -1,0 +1,17 @@
+Part B:
+Stay Safe Online: A Digital Safety Checklist for Students
+1.	PIN is for sending, not receiving: Never enter your UPI PIN to receive money. A PIN is only required to authorize a deduction from your account.
+2.	Verify before you pay: Before transacting on marketplaces like instagram, verify the seller’s identity. If they pressure you to "act fast" for a deal, it is likely a scam.
+3.	Enable two-factor authentication (2FA): Activate 2FA on your university email, whatsapp, and linkedIn. This prevents unauthorized logins even if someone knows your password.
+4.	Use strong, unique passwords: Avoid using your birthdate, "123456," or your name as a password. Use a mix of symbols, numbers, and letters, and never reuse the same password for banking and social media.
+5.	Check for https: Before entering personal data or adhaar details on any website, ensure the URL starts with https:// and shows a padlock icon in the browser bar.
+6.	Avoid public Wi-Fi for banking: Never log in to your bank account or UPI apps using free public wi-fi (like at railway stations or cafes). Use your mobile data for sensitive transactions.
+7.	Don't click shortened links: Be wary of shortened URLs (like bit.ly or tinyurl) sent via SMS or WhatsApp claiming you've won a "lottery" or "cashback." These are often phishing traps.
+8.	Keep Your OS Updated: Regularly update your smartphone and banking apps. These updates contain critical security patches that protect you against the latest malware.
+________________________________________
+ How to Report a Cybercrime
+If you or someone you know has been defrauded or harassed online, take action immediately:
+•	National Cyber Crime Reporting Portal: Visit https://www.cybercrime.gov.in to file a formal complaint.
+•	National Helpline Number: Call 1930 (available 24/7) to report financial fraud and freeze the fraudulent transaction.
+
+
