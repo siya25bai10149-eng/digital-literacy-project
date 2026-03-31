@@ -1,10 +1,10 @@
 # digital-literacy-project
 
-Description
+**Description**
 
 This project focuses on understanding digital literacy, safe internet practices, and building a professional online presence.
 
-Tasks Included
+**Tasks Included**
 
 Poster created using Canva
 
@@ -18,22 +18,27 @@ Email Etiquette
 
 Google Form quiz on digital literacy
 
-Tools Used
+**Tools Used**
 
 Canva, Google Forms, GitHub, LinkedIn, Kaggle
 
-Google Form quiz link 
+**Google Form quiz link **
 https://docs.google.com/forms/u/0/d/e/1FAIpQLSfWt0DOeikQBqHz-ltQpWQTJY_iboYqwBMR1qSYcVgK0qT8fw/formResponse?pli=1
 
-Google form response view link 
+**Google form response view link** 
 https://docs.google.com/spreadsheets/d/1RaK9GYKadq1rKzs1zswZw6vpy-y67rjpp1QPMPbfl9s/edit?resourcekey=&gid=1147723630#gid=1147723630
 
-What I Learned
+**What I Learned**
+
 Importance of staying safe online
+
 Creating strong passwords
+
 Professional communication skills
-Future Scope
+
+**Future Scope**
+
 These skills will help me in academics and future career development.
 
-Author
+**Author**
 Siya Panwar
