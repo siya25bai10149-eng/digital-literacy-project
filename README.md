@@ -1,13 +1,39 @@
 # digital-literacy-project
-task-1-presentation/[digital literacy.pdf](https://github.com/user-attachments/files/26321021/digital.literacy.pdf)
-task-2-portfolio/[portfolio.docx](https://github.com/user-attachments/files/26321023/portfolio.docx)
-task-3-platforms/[platforms and google form.docx](https://github.com/user-attachments/files/26321033/platforms.and.google.form.docx)
-                 https://docs.google.com/forms/d/e/1FAIpQLSfWt0DOeikQBqHz-ltQpWQTJY_iboYqwBMR1qSYcVgK0qT8fw/viewform?pli=1&pli=1
-                 https://docs.google.com/spreadsheets/d/1RaK9GYKadq1rKzs1zswZw6vpy-y67rjpp1QPMPbfl9s/edit?resourcekey=&gid=1147723630#gid=1147723630
-task-4-email-etiquette/[email and checklist.docx](https://github.com/user-attachments/files/26321050/email.and.checklist.docx)
-                       [social-media-checklist.txt](https://github.com/user-attachments/files/26321054/social-media-checklist.txt)
-task-5-cybercrime/[casestudy.pdf](https://github.com/user-attachments/files/26321082/casestudy.pdf)
-                  [prevention-checklist.txt](https://github.com/user-attachments/files/26321092/prevention-checklist.txt)
- report/[Project Report.pdf](https://github.com/user-attachments/files/26322034/Project.Report.pdf)
 
+Description
 
+This project focuses on understanding digital literacy, safe internet practices, and building a professional online presence.
+
+Tasks Included
+
+Poster created using Canva
+
+Project report
+
+Portfolio (LinkedIn, GitHub, Kaggle)
+
+Coding platforms used
+
+Email Etiquette
+
+Google Form quiz on digital literacy
+
+Tools Used
+
+Canva, Google Forms, GitHub, LinkedIn, Kaggle
+
+Google Form quiz link 
+https://docs.google.com/forms/u/0/d/e/1FAIpQLSfWt0DOeikQBqHz-ltQpWQTJY_iboYqwBMR1qSYcVgK0qT8fw/formResponse?pli=1
+
+Google form response view link 
+https://docs.google.com/spreadsheets/d/1RaK9GYKadq1rKzs1zswZw6vpy-y67rjpp1QPMPbfl9s/edit?resourcekey=&gid=1147723630#gid=1147723630
+
+What I Learned
+Importance of staying safe online
+Creating strong passwords
+Professional communication skills
+Future Scope
+These skills will help me in academics and future career development.
+
+Author
+Siya Panwar
