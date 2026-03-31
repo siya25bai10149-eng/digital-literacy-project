@@ -1,0 +1,15 @@
+Part 2:
+Social Media
+✅ The 5 DO's
+1.	Professional Profile: Use a clear headshot and a relevant headline (e.g., B.Tech AI/ML Student).
+2.	Share Progress: Post about your coding projects, HackerRank badges, or AI/ML certifications.
+3.	Network Wisely: Follow and engage thoughtfully with industry experts and seniors on LinkedIn.
+4.	Audit Privacy: Regularly check and update your account privacy settings to protect personal data.
+5.	Fact-Check: Verify any news or technical information before you hit the "Share" button.
+❌ The 5 DON'Ts
+1.	Avoid Rants: Never post negative comments about professors, peers, or past employers.
+2.	No Sensitive Info: Don't post photos of ID cards, hall tickets, or private login credentials.
+3.	Unprofessional Handles: Avoid using nicknames like gamer_pro for professional accounts.
+4.	No Plagiarism: Never post someone else's code or content without giving proper credit.
+5.	Ghosting: Don't ignore professional messages; always provide a polite, timely response.
+
